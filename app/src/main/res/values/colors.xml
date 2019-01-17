@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B2EBF2</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorAccent">#CDDC39</color>
+    <color name="textoTitulo">#CDDC39</color>
+    <color name="primary_text_default_material_dark">#212121</color>
+</resources>
